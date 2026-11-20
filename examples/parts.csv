@@ -1,0 +1,7 @@
+part_id,description,avg_daily_use,max_daily_use,lead_time_days,max_lead_time_days,on_hand,on_order,unit_cost,order_multiple
+FLT-2020,Pleated filter 20x20x2,1.5,3,10,21,18,0,12.50,12
+BLT-A48,V-belt A48,0.2,0.5,14,30,2,0,9.75,1
+CTR-24V,Contactor 24V coil,0.1,0.4,21,45,1,2,38.00,1
+LMP-T8,LED tube T8,2.0,4,7,14,60,48,4.20,24
+FUS-30A,Cartridge fuse 30A,0.3,0.8,5,10,20,0,1.35,10
+GSK-DR3,Door gasket 3 ft,0.05,0.2,30,60,0,0,22.00,1
