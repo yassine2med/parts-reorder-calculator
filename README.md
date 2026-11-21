@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="parts-reorder-calculator" width="100%"></p>
+
 # parts-reorder-calculator
 
 Running out of a belt or a filter stops a repair; stocking too many ties up money. This repo takes a CSV of maintenance parts with their usage and lead times and calculates safety stock, reorder point, max level and the exact quantity to order, rounded to the pack size.
