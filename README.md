@@ -2,6 +2,8 @@
 
 # parts-reorder-calculator
 
+[![CI](https://github.com/yassine2med/parts-reorder-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/parts-reorder-calculator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Running out of a belt or a filter stops a repair; stocking too many ties up money. This repo takes a CSV of maintenance parts with their usage and lead times and calculates safety stock, reorder point, max level and the exact quantity to order, rounded to the pack size.
 
 ![Screenshot](docs/screenshot.png)
